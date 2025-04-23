@@ -1,0 +1,12 @@
+Kupac: Ime: Pero, Prezime: Perić, OIB: 12547896547
+Blagajnik: Ime: Marko, Prezime: Marić, OIB: 36587458745
+Saldo na računu: 0.0
+--------------------------------------------------
+Kupac: Ime: Ana, Prezime: Anić, OIB: 98547896547
+Blagajnik: Ime: Ivan, Prezime: Ivić, OIB: 12025478965
+Saldo na računu: 0.0
+--------------------------------------------------
+Kupac: Ime: Eva, Prezime: Ević, OIB: 98598546547
+Blagajnik: Ime: Sven, Prezime: Svenić, OIB: 12025478965
+Saldo na računu: 0.0
+--------------------------------------------------
